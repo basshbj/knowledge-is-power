@@ -1,2 +1,5 @@
-# learning-notes
-Brief notes about things I learn
+# Learning Notes 📝
+Brief notes about things I learnt
+
+## GitHub
+- [GitHub Pages](/GitHub/github_pages.md)
